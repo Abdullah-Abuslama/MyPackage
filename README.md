@@ -8,10 +8,10 @@ python setup.py sdist
 
 ## installing this package from GitHub
 ```bash
-pip install git+https://github.com/Abdullah-Abuslama/MyPackage.git
+pip install git+https://github.com/Abdullah-Abuslama/mypackage.git
 ```
 
 ## updating this package from GitHub
 ```bash
-pip install --upgrade git+https://github.com/Abdullah-Abuslama/MyPackage.git
+pip install --upgrade git+https://github.com/Abdullah-Abuslama/mypackage.git
 ```
